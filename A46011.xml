@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the generall assemblie of the Confederat Catholicks of Ireland an establishment for the Court of Generall Iudicature.</title>
+            <author>Irish Confederation.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46011</idno>
+            <idno type="STC">Wing I343B</idno>
+            <idno type="STC">ESTC R36824</idno>
+            <idno type="EEBO-CITATION">16140276</idno>
+            <idno type="OCLC">ocm 16140276</idno>
+            <idno type="VID">104808</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46011)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104808)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1594:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the generall assemblie of the Confederat Catholicks of Ireland an establishment for the Court of Generall Iudicature.</title>
+                  <author>Irish Confederation.</author>
+                  <author>Kearnie, Philip.</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Kilkenny :</pubPlace>
+                  <date>the 2. of Aprill, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed at end: Ex per Philippum Kearnie Gen. Com. Hiberniæ cler.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Irish Confederation, 1642-1648.</term>
+               <term>Land titles --  Registration and transfer --  Ireland.</term>
+               <term>Priorities of claims and liens --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="order">
+            <pb facs="tcp:104808:1"/>
+            <!-- PDF PAGE 42 -->
+            <pb facs="tcp:104808:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 42 -->
+            <head>BY THE GENERALL ASSEMBLIE OF THE CONFEDERAT CATHOLICKES OF IRELAND An Eſtablishement for the Courte of Generall Iudicature</head>
+            <p>FOr aſmuch as the preſent warre is growne to that length, that the Modle of Gouernment, which hin<g ref="char:EOLhyphen"/>der mens entries into poſſeſſions, whereunto their en<g ref="char:EOLhyphen"/>try in the begininge of theſe troubles was or is lawfull, may be preiudiciall to the rights, which me<g ref="char:cmbAbbrStroke">̄</g> had to enter into their poſſeſſions by reaſon of death of witneſſes, &amp; of deſcents Caſt, and of diuers ſtatutes, which doe limit poſſeſſory actions to a Certaine tyme. For prevention whereof and to the end that the reſtriction put vpon men by the ſaid Modle of Gouernement concer<g ref="char:EOLhyphen"/>ninge bringinge Actions for their poſſeſſions, may be enlarged and looke backe to a further tyme then
+<pb facs="tcp:104808:2"/>
+               <!-- PDF PAGE 43 -->the firſt of theſe troubles. It is therfore ordered and Eſtablished that all and every perſon &amp; perſons may hereafter ſue, haue, and maintayne any Action of or for any Mannours, Lands, tennements or heredi<g ref="char:EOLhyphen"/>taments of or vpon his or their owne Seiſin or poſſeſ<g ref="char:EOLhyphen"/>ſion, or vpon his or their Anceſtors Seiſin or poſſeſſion therein, or vpon the Seiſin or poſſeſſion of thoſe vnder whom any ſuch perſon or perſons doe clayme any right or title to any Mannours, lands, tennements, or hereditame<g ref="char:cmbAbbrStroke">̄</g>ts with in twenty yeares before the Comen<g ref="char:EOLhyphen"/>cement of any ſuch Action hereafter to be brought.</p>
+            <p>IT is further ordered that for aſſurance of Ioyntures and purchaſes made or to be made duringe theſe troubles, fynes and Common Recoueryes shall and may be had in the Courte of Comon Bancke of the Generall Iudicature proper for the ſame; and that the ſeuerall officers by the lawe needful therunto, shall be named and Setled in the ſaid Courte, and that the ſaid fynes and Recoueryes to be had as a fore<g ref="char:EOLhyphen"/>ſayd shall be as ſtronge, and as byndinge as if they were had, in the Courte of Common Banke at Dublin.</p>
+            <p>IT is further ordered that to Cauſe obedience to be had and donne vnto the Courtes of Generall Iudi<g ref="char:EOLhyphen"/>cature and to continue all men within their duetyes the better the ſaid Courts shall &amp; may proceede to out<g ref="char:EOLhyphen"/>lawperſons, in Caſes of Contempt accordinge to the lawes, and like wiſe in Caſes of felony, and treaſon to proceede to outlawryes &amp; other attainders accordinge
+<pb facs="tcp:104808:2"/>
+               <!-- PDF PAGE 43 -->to the lawes and the forfeiture arriſinge there vpon to accrue to the Publique to the vſe of his Maieſtie. And that all attainders hereafter to be had duringe the go<g ref="char:EOLhyphen"/>uernment of the Confederate Catholiques, shall be as ſtronge and as byndinge, and Carry the ſame effect of, and for diſabillity, Corruption of blood, forfeiture, and execution as any attainder did before theſe troubles.</p>
+            <p>IT is further ordered, that all cauſes Commenced, or to be Commenced in the Generall Iudicature in caſe a peace shall be made, pendinge the ſaid Cauſes, shall continue and be proceeded with in the Courts of Du<g ref="char:EOLhyphen"/>blin, or what other Courts shall be agreed on to be ſet<g ref="char:EOLhyphen"/>tled then, and that want of Iuriſdiction shall be noe let or barre therunto, but that the ſaid Cauſes shall ſtand, and be proceeded vpon, as if the ſaid peace were not had, or made, And all decrees, and Iudgments had or paſt in the ſaid Generall Iudicature, shalbe as effectuall and byndinge as if they were had in the Courts of Du<g ref="char:EOLhyphen"/>blin in tymes of peace.</p>
+            <p>FOr as much as the Acts of reducinge vſes to fiue pounde in the hu<g ref="char:cmbAbbrStroke">̄</g>dred duringe theſe troubles hath not made or declared the takinge or contractinge for more then accordinge the ſaid rate of fiue pounds per Cent. to be uſurious and voyd. It is therfore ordered that all Contracts bills bonds, recognizances, ſtatutes, and ſpecialties, hereafter to be made, where vpon more then after fiue pounds per Cent: for intreſt, or
+<pb facs="tcp:104808:3"/>
+               <!-- PDF PAGE 44 -->vſe, will be taken, or Contracted for, duringe theſe troubles, are and shall be voyde, and are here by decla<g ref="char:EOLhyphen"/>red to be vſurious, &amp; the ſame penalties, &amp; forfeitures to follow therof, which are ſet downe in the ſtatute of vſurie made in this Kingdome, <hi>decimo Caroli</hi>
+            </p>
+            <p>THat in Caſe of Mortgages, the Iudges of the Generall Iudicature may haue power to proceed therein, wherein the lands mortgaged are poſſeſſed by the mortgage or his heires, or aſſignes, by leaſe, or other Conrtracte: And in caſe of rents, or Annuyties Mortgaged, for the qualyfication of the rents, and proffits, to be payde there out yearlie duringe theſe troubles, and to determyne the ſame, accordinge to the vallue, &amp; Condition of each mans particular caſe in equitie and Conſcience. And for as much as the power of the ſaid Court of Generall Iudicature, is en<g ref="char:EOLhyphen"/>lardged in the particulars aforeſaid, beſides the former power it had by the Eſtablishments of former Aſſem<g ref="char:EOLhyphen"/>bleys, by meanes wherof it is conceaued, the practice of the ſaid Courtes, &amp; labour of the ſaid Iudges, will be the more encreaſed, and with all, for avoydinge the inconueniencie, and diſorder, which was found by the ſittinge together of the ſaid Courts, of Chauncery, Star-chamber and Common-lawe, in one Courte. It is therfore ordered and Eſtablished that the ſaid Generall Iudicature shall be deuided into two ſeuerall Courts, the one Conſiſtinge of a Chauncery, and Starr-chamber, the other conſiſtinge of the Courts of Kings
+<pb facs="tcp:104808:3"/>
+               <!-- PDF PAGE 44 -->Bench, and Comon Bancke, all which ſaid Courts, are to conſiſte of the enſueinge Iudges, (viz) the right reuerend father in god Arthur lo: Byshop of Downe, Richard Berford, Iohn Dillon, Richard Martin, Iohn Walsh, Hugh Rochford, and William Hoare Eſquiers, of which ſaid number, the ſaid lo: Byshop of Downe, with three more of the ſaid Iudges to be nominated and aſcertained by the Supreame Councell with the aduiſe of the aforeſaid Iudges, are to ſit as Iudges and to heare and determyne Cauſes, in the ſaid Courtes of Chauncery and Star-chamber, And the ſaid Richard Berford, who is declared and appointed cheefe Iuſtice of the ſaid Courtes of Kings Bench &amp; common Bancke, is to ſitt together with other the two Iudges, which shall fall out not to be nominated or aſcertained for the ſaid Courtes of Chauncery and Starchamber, as Iuſtices of both the ſaid Courtes of Kings bench and Common bancke to heare and determine cauſes, and therein to proceede accordinge to the lawes of the land.</p>
+            <p>ANd it is further the ſence of the howſe, and ſoe declared, that the ſaid Iudges shall ſit and weare their Gownes in Court, and haue the reſpect due to their places, and that the lawyers at Barre, and other the Cheefe officers of the laid Courtes shall likwiſe goe in their Gownes in courte.</p>
+            <p>ANd it is further ordered that when any Starcham<g ref="char:EOLhyphen"/>ber matters shall be in hearinge that the right honnorable the Supreame Councell, and the reſt of
+<pb facs="tcp:104808:4"/>
+               <!-- PDF PAGE 45 -->the ſaid Iudges which are not to be nominated for the ſaid courtes of Chauncery &amp; Star-chamber may if they pleaſe be preſent and ſit and vote in ſuch cauſes.</p>
+            <p>ANd it is further ordered that in caſe Mr. Martin take not on him to be one of the ſaid Iudges that Geffery Browne Eſquier shall be Iudge in his place, but in caſe the ſaid M<hi rend="sup">r</hi>. Martin take the place vpon him, that then the ſaid Geffery Browne shall be cheefe Iuſtice of Connaght in his ſteade.</p>
+            <p>It is further ordered and Eſtablished that each of the ſaid Iudges shall haue the accuſtomed penſion of 150 pounds per Annum to be payde quarterly; and in caſe any of them doe not attend their charge in Tear<g ref="char:EOLhyphen"/>me-tyme, their penſion to abate proportionably vn<g ref="char:EOLhyphen"/>leſſe theire abſence be occaſioned by reaſon of Sicknes or infirmitie.</p>
+            <p>IT is lickwiſe ordered that a Checquer-chamber shall be conſiſting of all the Iudges aforeſaid vppon all occaſions that shall require the ſame.</p>
+            <p>IT is further ordered and Eſtablished that the Major of the Citty of Kilkenny or Major or Magiſtrat of any other Citty or Corporation wherein the ſaid Iud<g ref="char:EOLhyphen"/>ges shall ſitt shall prouide Sufficient and conuenient Court-howſes for the ſaid Iudges to ſitt in, and withall decent and conuenient Lodginges well accomodated for them to Lodge in.</p>
+            <closer>
+               <signed>Ex. per Philippum Kearnie Gen. Com. Hiberniae Cler.</signed>
+               <dateline>Kilkenny <date>the 2. of Aprill 1647.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:104808:4"/>
+            <!-- PDF PAGE 45 -->
+         </div>
+      </body>
+   </text>
+</TEI>
